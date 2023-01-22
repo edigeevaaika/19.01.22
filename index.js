@@ -127,3 +127,4 @@
 let heater = 2.4;
 let Job = 46;
 let electricity = 2.44;
+let pay = job * heater * electricity;
