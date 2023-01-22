@@ -132,3 +132,4 @@ console.log(pay);
 
 
 let height = 23;
+let width = 33;
