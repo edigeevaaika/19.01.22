@@ -129,3 +129,6 @@ let job = 46;
 let electricity = 2.44;
 let pay = job * heater * electricity;
 console.log(pay);
+
+
+let height = 23;
