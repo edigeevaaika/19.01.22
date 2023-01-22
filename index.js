@@ -134,3 +134,4 @@ console.log(pay);
 let height = 23;
 let width = 33;
 let length = 50;
+let weight = 12;
