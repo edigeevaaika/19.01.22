@@ -117,3 +117,8 @@ if (login === "ElonMusk" && password === "I'm the best"){
 else {
   console.log("Incorrect");
 }
+
+
+let passengers = 20;
+let place = 23;
+if(passengers === place )
