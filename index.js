@@ -128,3 +128,4 @@ let heater = 2.4;
 let job = 46;
 let electricity = 2.44;
 let pay = job * heater * electricity;
+console.log(pay);
