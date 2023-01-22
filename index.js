@@ -122,3 +122,6 @@
 // let passengers = 20;
 // let place = 23;
 // if(passengers === place )
+
+
+let heater = 2.4;
