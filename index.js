@@ -136,5 +136,5 @@ let width = 33;
 let length = 50;
 let weight = 12;
 let tariff = 499;
-let volume = (height * width * length )+ (weight * tariff);
+let volume = height * width * length + weight * tariff;
 console.log(volume);
